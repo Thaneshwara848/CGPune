@@ -1,0 +1,54 @@
+class 				abstract class 			Interface 
+
+1)
+class A{}			abstract class B {}		interface I {}
+
+2)
+Obj : yes 			No 				NO 
+
+3) Constructor: yes 		yes 				no 
+
+4) int a;			int a ;				int a=100;
+
+5)  Non abstract methods 	both 				only abstract methods
+
+6) 0 % abstract 		0-100%				100%
+
+7) Multiple inheritance : no 	no 				yes 
+
+
+			class & Object with examples
+
+			Oops : 		
+					advantage of Oops 
+					Inheritance , polymorphism ,Abstraction , Encapsulation 
+
+			What is packages in Java 
+			
+			Access modifiers  :public , private , Protected , Default 
+
+			Non Access Modifiers : static , abstract , Final 
+
+			Features of java 
+
+			JDK ,JRE,JVM
+
+			J2EE,J2ME,J2Se
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
